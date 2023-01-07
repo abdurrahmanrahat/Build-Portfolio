@@ -18,6 +18,13 @@
     padding: 18px 35px;
 }
 
+.new-btn{
+    padding: 18px 23px;
+    color: #FD6E0A;
+    border: 1px solid #FD6E0A;
+    font-size: 20px;
+}
+
 /* header and navigation */
 .header {
     background: #FFF8F3;
